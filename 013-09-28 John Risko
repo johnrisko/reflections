@@ -1,0 +1,16 @@
+reflections
+===========
+
+I think reproducibilility has the potential to significantly improve the quality of research and studies. Not only does it make sure that the conclusions are verifiable, it lessens the chances of drawing incorrect conclusions from faulty mathematics and computer error. Such a bad result can be seen in the Reinhart and Rogoff papers which seemed to conclude that debt/GDP ratios greater than 90% led to negative growth. As they are both Harvard economists who tested a large amount of data, their conclusions seemed logically sounds and authoritative. Their paper was majorly cited for the push for austerity measures in Euorpe causing countries to cut spending and raise taxes in an effort to lower the debt/GDP ratios. However, graduate students at the University of Massachusetts discovered a coding error in their study and found that while debt/GDP ratios of greater 90% correlated with slower growth, the growth was positive. Therefore, the conclusions were wrong and the governments following the study were implementing policy based on incorrect conclusions. Reproducibility is important in catching these errors before they have major impacts on policy, economics, medicine, etc. 
+
+The major benefits of reproducibility are:
+1) Preventing bad math from influencing conclusions
+2) Economies of scale could allow more progress in studies and discoveries
+3) Accountability. Researchers are accountable for their results.
+
+The major drawbacks are:
+1) Less personal incentive.
+2) Possibly takes longer time.
+3) Coordination.
+
+I did not know much about reproduciblity before I took this class. I am reading and studying investments instensively right now and reproducibility is a huge problem in verifying if some strategies work. A lot of strategies are tested by backtesting, and reproducibility will help in differentiating dsuccesful startegies from ones where data mining and survivorship bias occur.
